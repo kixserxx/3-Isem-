@@ -1,0 +1,20 @@
+H:\ISRPO\3(II sem)\lab3\lab3\bin\Debug\lab3.exe.config
+H:\ISRPO\3(II sem)\lab3\lab3\bin\Debug\lab3.exe
+H:\ISRPO\3(II sem)\lab3\lab3\bin\Debug\lab3.pdb
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.Form1.resources
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.exe
+H:\ISRPO\3(II sem)\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\helkn\OneDrive\Рабочий стол\учеба\ИСРПО\3(II sem)\lab3\lab3\obj\Debug\lab3.pdb
